@@ -1,4 +1,5 @@
 #charu
+
 About me
 
 1.**Name:** Charulatha N
@@ -7,12 +8,10 @@ About me
 
 3.**Branch:** Electrical and Electronics engineering
 
-4.**Hobbies:** 
-                -reading books
-                
-                -watching TV
-                
-                -listening to music
+4.**Hobbies:**         
+          +reading books
+          +watching TV          
+          +listening to music
 
 --------------------------------------
 
