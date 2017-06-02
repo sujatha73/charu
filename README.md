@@ -9,9 +9,9 @@ About me
 3.**Branch:** Electrical and Electronics engineering
 
 4.**Hobbies:**         
- +reading books
- +watching TV       
- +listening to music
+ *reading books
+ *watching TV       
+ *listening to music
 
 --------------------------------------
 
