@@ -1,6 +1,5 @@
-// narashiman 107116019
+// Charulatha 107116019
 #include <stdio.h>
- 
 int main()
 {
    int a[100], n, i, j, position, temp;
